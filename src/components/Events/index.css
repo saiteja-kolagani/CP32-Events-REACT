@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #3a4b63;
+  width: 65%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+}
+.events-container {
+  list-style-type: none;
+  padding: 0px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-block: 20px;
+  margin: auto;
+}
+.main-container {
+  display: flex;
+  min-height: 100vh;
+}
+.heading {
+  font-size: 28px;
+  color: #ffffff;
+  padding-left: 105px;
+}
